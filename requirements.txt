@@ -1,6 +1,1 @@
-pandas>=1.5
-numpy>=1.23
-scikit-learn>=1.2
 catboost==1.2.5
-joblib>=1.2
-
