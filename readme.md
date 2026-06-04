@@ -68,7 +68,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ### Инициализация Airflow (один раз)
 
 ```bash
-docker compose up airflow-init --bild
+docker compose up airflow-init --build
 ```
 
 ### Запуск всех сервисов
