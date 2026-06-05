@@ -114,8 +114,8 @@ airflow-docker/
 ├── logs/                     # Логи Airflow для отладки
 ├── plugins/                  # Кастомные плагины Airflow
 ├── config/                   # Конфигурационные файлы
-├── delivery_model.py        # Локальное обучение модели
 ├── docker-compose.yaml      # Конфигурация всех сервисов
+├── Dockerfile               # Конфигурация airflow c библиотекой Catboost
 └── README.md
 ```
 
